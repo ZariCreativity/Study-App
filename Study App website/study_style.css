@@ -1,0 +1,28 @@
+/*selector{ declaration property: declaration value }*/
+
+body {
+	background-color: #D6D6D6; 
+	color: #121478; width: 90%; 
+	margin-right: auto; margin-left: auto; 
+	font-family: Comic Sans MS, Arial, sans-serif; }
+
+nav {
+	background-color: #121478; 
+	text-align: center; 
+	font-weight: bold; 
+	line-height: 2.5}
+
+nav a {
+	color: #FFFFFF; 
+	text-decoration: none; }
+	
+a {cursor: ;}
+
+.closer {
+	width: 80%; 
+	margin-right: auto; 
+	margin-left: auto;}
+
+dt {
+	font-weight: bold; 
+	line-height: 2.0; }
