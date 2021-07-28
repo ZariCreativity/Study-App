@@ -1,5 +1,5 @@
 # Study-App
-This app is small beginner's project
+This app is small beginner's project.
 It's an app designed to assist students with their studies.
 It is far from finished and is updated periodically.
 Right now the app has three features: a timer, a to-do list, and the ability to save and load to-do lists.
